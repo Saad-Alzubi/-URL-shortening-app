@@ -10,6 +10,8 @@ URL shortening app is responsible to shorten URL using shrtcode API For example,
 
 #### `cd url-app`
 
+#### `npm i`
+
 #### `npm  start`
 
 the app will run on (http://localhost:3000)
